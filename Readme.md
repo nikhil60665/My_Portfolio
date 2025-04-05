@@ -53,7 +53,7 @@ If you'd like to run my portfolio locally:
 2. Open `index.html` in your browser
 3. Explore the different sections!
 
-Alternatively, you can visit my live website at [www.nikhisharma.com](http://www.nikhisharma.com)
+Alternatively, you can visit my live website at [Nikhil's Portfolio]([http://www.nikhisharma.com](https://nikhil60665.github.io/My_Portfolio/))
 
 ![QR Code](QR.png)
 
